@@ -1,0 +1,19 @@
+.buttons {
+    margin-left: 10em;
+    margin-top:3em;
+    color: darkslategrey;
+    font-size:16px;
+}
+#gifs-appear-here {
+    margin-left: 9em;
+    margin-top: 3em;
+}
+.gif-images {
+    float:left;
+    margin-left:20px;
+    margin-top:10px;
+    max-width: 5em;
+}
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/08/21/11/wood-1963988__340.jpg");
+}
